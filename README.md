@@ -11,7 +11,8 @@
   <img align="center" alt="chulastem-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="chulastem-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="chulastem-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
+       src="https://instagram.fplu8-1.fna.fbcdn.net/v/t51.2885-19/173224703_905690316912054_155599269390762728_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fplu8-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=MLlgCfjvzAIAX8QbHCj&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDmfslv9J7wL3HfjFNQ4uBoseKe6Fab8EDX7WBV1kBrQA&oe=636F491E&_nc_sid=8fd12b">
 </div>
   
  #
