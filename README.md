@@ -1,5 +1,9 @@
 ### Hello there 👋
 
+- 😃 My name is Pedro Antonio.
+- 📚 Currently studying Computer Science
+- 👾 Always looking to learn and improve
+- May the force be with you
 #
 <div align="center">
   <a href="https://github.com/chulastem">
