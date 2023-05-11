@@ -25,6 +25,4 @@
 </div>
 
 #
-![](https://komarev.com/ghpvc/?username=chulastem)
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=System.out.println("hello+world");import+java.util.Scanner;Scanner+input+=+new+Scanner(System.in))](https://git.io/typing-svg)
+
